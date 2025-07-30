@@ -1,20 +1,45 @@
-👋 I'm FAROOQSHEHZAD
-Computer Vision Artificial Intelligence Deep Learning Research
+# 👋 I'm FAROOQSHEHZAD  
+**Computer Vision | Artificial Intelligence | Deep Learning Research**
 
-FAROOQSHEHZAD
-🚀 About Me
-I'm a Research Assistant at the 𝐃𝐈𝐏 𝐋𝐚𝐛, 𝐈𝐬𝐥𝐚𝐦𝐢𝐚 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐏𝐞𝐬𝐡𝐚𝐰𝐚𝐫, with a primary research focus on computer vision, particularly in DeepFake Detection. I have completed my undergraduate degree in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 from Islamia College Peshawar, Pakistan. My undergraduate studies were more focused on 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, and 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧. Beyond coding, I love staying up-to-date with cutting-edge research.
+---
 
-🔭 My Journey
-🎓 Bachelors in Computer Science from Islamia College University, Peshawar
-💼 Currently working as Research Assistant at Digital Image Processing Lab, ICP
-🔭 Researching Deep Learning Based DeepFake Detection
-🌱 Always learning and staying updated with the latest in AI and computer vision
-💻 Tech Stack
-Python C++ PyTorch Scikit-learn Ultralytics OpenCV Streamlit Jetson Jupyter Git Pandas NumPy Matplotlib Seaborn Hugging Face GitHub
+## 🚀 About Me  
+I'm a **Research Assistant** at the **DIP Lab, Islamia College Peshawar**, with a primary research focus on **Computer Vision**, particularly in **DeepFake Detection**.
 
-📈 GitHub Stats
- GitHub Streak
-🤝 Let's Connect
-LinkedIn Website Email
-email = farooqshehzad185507@gmail.com 
+🎓 I hold a **Bachelor's degree in Computer Science** from **Islamia College University, Peshawar**, Pakistan.  
+🧠 During my undergraduate studies, I developed a strong foundation in **Deep Learning**, **Machine Learning**, and **Computer Vision**.
+
+Outside of coding and experiments, I enjoy keeping up with the **latest research trends and advancements** in AI.
+
+---
+
+## 🔭 My Journey  
+- 🎓 Bachelor's in **Computer Science**, Islamia College University, Peshawar  
+- 💼 Currently working as a **Research Assistant** at the **DIP Lab**
+
+---
+
+## 📫 Let's Connect  
+- [LinkedIn]
+- [Twitter]
+- 📧 farooqshehzad@email.com  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages**: Python, C++, MATLAB  
+- **Frameworks & Libraries**: PyTorch, TensorFlow, OpenCV, Scikit-learn  
+- **Tools**: Git, Jupyter, VS Code, Google Colab  
+
+---
+
+## 📚 Areas of Interest  
+- DeepFake Detection  
+- Convolutional Neural Networks  
+- Generative Adversarial Networks (GANs)  
+- Vision Transformers  
+- AI Ethics in Visual Media
+
+---
+
+*“Pushing the boundaries of visual understanding, one line of code at a time.”*
