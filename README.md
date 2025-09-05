@@ -74,7 +74,8 @@
 ### 🤝 Connect With Me
 
 - 📧 Gmail: [farooqshehzad185507@gmail.com](mailto:farooqshehzad185507@gmail.com)
-- 🔗 LinkedIn: *(Add your link here)*
+- 🔗 LinkedIn: *([MUHAMMAD FAROOQ](https://www.linkedin.com/in/muhammad-farooq-240788382/)
+)*
 - 🐦 Twitter: *(Add your handle here)*
 
 ---
